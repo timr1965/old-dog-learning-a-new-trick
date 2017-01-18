@@ -1,0 +1,2 @@
+# old-dog-learning-a-new-trick
+Building a paludarium. I'm almost done with the fake rocks background etc. I work for an incumbent telco. I got the physical side down. I'm just starting out with the pi3b. And the Arduino uno.  Want to start small like, fading lights off and on. Both LED and incodecent. Then on from there. My daughters are digging the idea. So, good bonding time. Plus, I want to expose them to this world. Thank you for hearing my rant 
